@@ -1,4 +1,4 @@
-## OGUREC APPS Privacy Policy
+## Privacy Policy
 *Last Updated: Sunday, 24th May 2020*
 
 If you choose to use any of OGUREC APPS products, you agree to the collection and use of personal information in relation with this policy. To operate and manage our services we need to use third party service providers from time to time. A list of those parties can be found in this privacy policies. The type of information we might collect from them includes:
