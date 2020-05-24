@@ -20,7 +20,7 @@ Advertisements from third party ad networks may be displayed in our Games from t
 
 If you click on any advertisements through Our games, the advertisers may use cookies and other web-tracking technologies to collect data, to provide targeted advertisements to you. Some of this may be personal information, and some of it non-personal information. We recommend that you review the terms of use and privacy policy for any advertiser with whom you are interacting before doing so.
 
-### The list of our ad networks privacy policies may be found here:
+The list of our ad networks privacy policies may be found here:
 * [Appodeal](https://www.appodeal.com/privacy-policy)
 * [Unity Technologies](https://unity3d.com/legal/privacy-policy)
 * [Adcolony](https://www.adcolony.com/privacy-policy/)
