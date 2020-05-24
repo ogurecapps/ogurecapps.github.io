@@ -5,7 +5,6 @@ bidmachine.io, 58589, DIRECT
 #AdMob
 google.com, pub-0910758620566743, DIRECT, f08c47fec0942fa0
 #Facebook
-#Replace the Business ID below with your Facebook Business ID
 facebook.com, 909217305940169, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
