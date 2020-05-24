@@ -10,3 +10,6 @@ Indie developer from Saint-Petersburg. Creator of MechCube, Lovecraft Quest and 
 ### Contacts
 * [coder1cv8@gmail.com](mailto:coder1cv8@gmail.com)
 * [@andreysklyaroff](https://www.instagram.com/andreysklyaroff/)
+
+### Privacy Policy
+[https://ogurecapps.github.io/privacy-policy](https://ogurecapps.github.io/privacy-policy)
