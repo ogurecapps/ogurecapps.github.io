@@ -1,19 +1,16 @@
 ## Privacy Policy
-*Last Updated: Sunday, 24th May 2020*
+*Last Updated: Friday, 6th August 2021*
 
 If you choose to use any of OGUREC APPS products, you agree to the collection and use of personal information in relation with this policy. To operate and manage our services we need to use third party service providers from time to time. A list of those parties can be found in this privacy policies. The type of information we might collect from them includes:
 
 ### Device data
-Such as Screen size, IP address, Location (Latitude & Longitude), Battery Charge Level, Time zone, etc
+Such as Screen size, Battery Charge Level, Time zone, etc
 
 ### App data
 Such as Bundle ID, store URL, session length, session ID
 
 ### Ad data
 Impression Count per session, Click count, Finish count, total impression count
-
-### User data
-Gender, age, interests, etc
 
 ### Advertising
 Advertisements from third party ad networks may be displayed in our Games from time to time. All reasonable endeavours are used to ensure that these ad networks comply with all applicable legislation in the provision of their services towards us.
